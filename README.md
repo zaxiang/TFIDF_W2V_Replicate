@@ -2,7 +2,8 @@
 DSC180 Quarter 1 Project
 
 ## Data:
-https://drive.google.com/drive/folders/1JnEphgsneXqbo71g3-xCgL9jSeA5lOO_?usp=share_link
+The data is available on [Google Drive](https://drive.google.com/drive/folders/1JnEphgsneXqbo71g3-xCgL9jSeA5lOO_?usp=share_link)\
+
 
 ## Results:
 
